@@ -3,14 +3,14 @@
   "displayName": "EcoFlow",
   "name": "homebridge-plugin-ecoflow",
   "version": "1.0.0",
-  "description": "This plugin controlls the outlets of a local Ecoflow batterie.",
+  "description": "This plugin controls the outlets of a local Ecoflow batterie.",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/USERNAME/GITHUB_PROJECT_NAME.git"
+    "url": "https://github.com/antagosteenl/homebridge-plugin-ecoflow"
   },
   "bugs": {
-    "url": "https://github.com/USERNAME/GITHUB_PROJECT_NAME/issues"
+    "url": "https://github.com/antagosteenl/homebridge-plugin-ecoflow/issues"
   },
   "engines": {
     "node": ">=14.18.1",
